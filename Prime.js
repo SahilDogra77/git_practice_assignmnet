@@ -1,6 +1,6 @@
 let n=13;
 
-
+count=0;
 for(i=1;i<=n;i++)
   
 {
